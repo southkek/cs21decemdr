@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ca76cdb4-d602-4240-9b3e-77c4e9eea740": {
+      "ProjectGuid": "ca76cdb4-d602-4240-9b3e-77c4e9eea740",
+      "DisplayName": "Этап 1 задание",
+      "ColorIndex": 0
+    },
+    "0abb45e6-aaaf-4720-9da8-3b3463180e9c": {
+      "ProjectGuid": "0abb45e6-aaaf-4720-9da8-3b3463180e9c",
+      "DisplayName": "задание 4.20",
+      "ColorIndex": 1
+    },
+    "ad153734-3395-4611-bb24-b97d76aab980": {
+      "ProjectGuid": "ad153734-3395-4611-bb24-b97d76aab980",
+      "DisplayName": "Задание 5.08",
+      "ColorIndex": 2
+    },
+    "5bd7d3ad-e531-419f-8a2d-476d88ed0c84": {
+      "ProjectGuid": "5bd7d3ad-e531-419f-8a2d-476d88ed0c84",
+      "DisplayName": "Задание 4.10",
+      "ColorIndex": 3
+    },
+    "9f8706cc-3d1a-41e1-86b5-d2915eac84e7": {
+      "ProjectGuid": "9f8706cc-3d1a-41e1-86b5-d2915eac84e7",
+      "DisplayName": "Задание 4.09",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
