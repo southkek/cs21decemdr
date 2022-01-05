@@ -10,6 +10,11 @@ namespace Задание_1._02
     {
         static void Main(string[] args)
         {
+            double a = Convert.ToDouble(Console.ReadLine());
+            double b;
+            b = 
+
+
         }
     }
 }
